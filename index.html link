@@ -1,1 +1,15 @@
-https://arcade.makecode.com/S67416-00465-87769-36708
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a {https://arcade.makecode.com/S67416-00465-87769-36708
+  color: hotpink;
+}
+</style>
+</head>
+<body>
+
+<p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
+
+</body>
+</html>
